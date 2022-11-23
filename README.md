@@ -1,2 +1,2 @@
 # Barao-1C-PensamentoComputacional
-Desenvolvimento de site HTML e CSS
+Projeto de site em HTML e CSS
